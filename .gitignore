@@ -1,0 +1,6 @@
+*.csv
+*.png
+.local_history
+notes.md
+__pycache__
+coco2017
